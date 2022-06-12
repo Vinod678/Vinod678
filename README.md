@@ -9,7 +9,8 @@
       - Email    ---> vinodyedla678@gmail.com
       - Twitter  ---> https://twitter.com/Vinod_Infinity
 
-- Currently Working as Quality Analyst Intern in TV2Z company.
+- Quality Analyst Intern in TV2Z company.
+- Currently Working as System Engineer in Infosys
 <!---
 Vinod678/Vinod678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
