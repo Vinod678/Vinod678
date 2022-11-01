@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning ... Core Java , Spring Framework , AWS cloud Deployment
 - 💞️ I’m looking to collaborate on java, c, Selenium automation code.
 - 📫 How to reach me ... 
+      -        ----------> https://linktr.ee/vinodyedla
       - LinkedIn ---> https://www.linkedin.com/in/vinod-yedla/
       - Email    ---> vinodyedla678@gmail.com
       - Twitter  ---> https://twitter.com/Vinod_Infinity
