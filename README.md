@@ -1,6 +1,7 @@
 - 👋 𝐇𝐢, 𝐈’𝐦 @𝐕𝐢𝐧𝐨𝐝
 - 𝑹𝑮𝑼𝑲𝑻 Nuzvid 2K15 Batch
 - ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘
+- https://vinod678.github.io/VinodYedlaPortfolio/
 - 👀 I’m interested in Learning Trendy Technologies
 - 🌱 I’m currently learning ... Core Java , Spring Framework , AWS cloud Deployment
 - 💞️ I’m looking to collaborate on java, c, Selenium automation code.
